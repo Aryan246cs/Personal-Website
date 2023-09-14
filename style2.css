@@ -1,0 +1,94 @@
+.centered{
+    position:absolute;
+    top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  font-size: 6rem;
+  font-family: Papyrus,fantasy;
+  color:antiquewhite
+}
+.botcentered{
+    position:absolute;
+    top: 60%;
+    left: 55%;
+    font-size: 3rem;
+  font-family: Papyrus,fantasy;
+  color:antiquewhite
+}
+#aryan{
+    border-radius: 50%;
+    position:absolute;
+    top: 70%;
+    left: 55%;
+    bottom:10%
+}
+.intro{
+    margin: 10%;
+    font-size:2rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    color:whitesmoke;
+}
+.asd{
+    text-align: center;
+    font-size: 3rem;
+    color:aqua;
+    font-family: Papyrus,fantasy;
+}
+.ndcont{
+   display:grid;
+   grid-template-columns: 1fr 1fr ;
+   grid-template-rows: 1fr 1fr  ;
+   gap:0;
+}
+.edf{
+    margin: 10%;
+    font-size:2rem;
+    font-family: Papyrus,fantasy;    
+    color:whitesmoke;
+}
+.body{
+    background-color:#a28089;
+}
+.tck{
+    margin: 10%;
+    font-size:2rem;
+    font-family: Papyrus,fantasy;    
+    color:whitesmoke;
+}
+.azx{
+    border-radius: 5%;
+}
+.axx{
+    border-radius: 5%;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.project{
+    font-size: 3rem;
+    text-align: center;
+    color: whitesmoke;
+    font-family: serif;
+}
+.py-3{
+  margin-bottom: 0;
+  padding: 0;
+}
+.fuck{
+    font-size: 2rem;
+     
+}
